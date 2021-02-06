@@ -4,8 +4,7 @@
     <option name="desktopPackageType" value="captive runtime bundle" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a2cf2b-4c89-4140-ba76-133779b79081" name="Default Changelist" comment="- Readme updated;">
-      <change afterPath="$PROJECT_DIR$/Screenshot.png" afterDir="false" />
+    <list default="true" id="72a2cf2b-4c89-4140-ba76-133779b79081" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
