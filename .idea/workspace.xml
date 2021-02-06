@@ -4,14 +4,9 @@
     <option name="desktopPackageType" value="captive runtime bundle" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a2cf2b-4c89-4140-ba76-133779b79081" name="Default Changelist" comment="">
+    <list default="true" id="72a2cf2b-4c89-4140-ba76-133779b79081" name="Default Changelist" comment="- Removed deprecated or obsolete property &quot;maxParticles&quot;;&#10;&#10;- Added project related files (IntelliJ);&#10;&#10;- Make sure to use latest MASTER Branch of Starling Framework to compile;&#10;&#10;- You need Starling Extension &quot;Starling-Extension-Particle-System&quot;;&#10;&#10;- Added mousewheel handler to &quot;Slider&quot; component for finetuning values. Use the following keys to adjust step size:&#10;Default: +/- 1&#10;CRTL Key: +/- .1&#10;SHIFT Key: +/- 10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starling-Particle-Editor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Starling-Particle-Editor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main-app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit101/components/Slider.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bit101/components/Slider.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/ParticleView.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/ParticleView.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsListener.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsListener.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsModel.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsModel.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +89,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="- initial commit;" />
     <MESSAGE value="- initial commit for using latest starling and starling particle system classes;&#10;- preparing captive runtime release;" />
-    <option name="LAST_COMMIT_MESSAGE" value="- initial commit for using latest starling and starling particle system classes;&#10;- preparing captive runtime release;" />
+    <MESSAGE value="- Removed deprecated or obsolete property &quot;maxParticles&quot;;&#10;&#10;- Added project related files (IntelliJ);&#10;&#10;- Make sure to use latest MASTER Branch of Starling Framework to compile;&#10;&#10;- You need Starling Extension &quot;Starling-Extension-Particle-System&quot;;&#10;&#10;- Added mousewheel handler to &quot;Slider&quot; component for finetuning values. Use the following keys to adjust step size:&#10;Default: +/- 1&#10;CRTL Key: +/- .1&#10;SHIFT Key: +/- 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Removed deprecated or obsolete property &quot;maxParticles&quot;;&#10;&#10;- Added project related files (IntelliJ);&#10;&#10;- Make sure to use latest MASTER Branch of Starling Framework to compile;&#10;&#10;- You need Starling Extension &quot;Starling-Extension-Particle-System&quot;;&#10;&#10;- Added mousewheel handler to &quot;Slider&quot; component for finetuning values. Use the following keys to adjust step size:&#10;Default: +/- 1&#10;CRTL Key: +/- .1&#10;SHIFT Key: +/- 10" />
   </component>
 </project>
