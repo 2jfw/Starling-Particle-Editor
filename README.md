@@ -10,3 +10,17 @@ This project depends on:
 the Starling Framework: https://github.com/PrimaryFeather/Starling-Framework  
 	
 the Starling Particle Extension: https://github.com/PrimaryFeather/Starling-Extension-Particle-System
+
+
+- Removed deprecated or obsolete property "maxParticles";
+
+- Added project related files (IntelliJ);
+
+- Make sure to use latest MASTER Branch of Starling Framework to compile;
+
+- You need Starling Extension "Starling-Extension-Particle-System";
+
+- Added mousewheel handler to "Slider" component for finetuning values. Use the following keys to adjust step size:
+Default: +/- 1
+CRTL Key: +/- .1
+SHIFT Key: +/- 10
