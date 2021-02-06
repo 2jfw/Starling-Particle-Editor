@@ -27,4 +27,5 @@ Default: +/- 1
 CRTL Key: +/- .1
 SHIFT Key: +/- 10
 
+![Preview](/Screenshot.jpg?raw=true "Preview")
 
