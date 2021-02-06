@@ -7,6 +7,9 @@
     <list default="true" id="72a2cf2b-4c89-4140-ba76-133779b79081" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/ParticleView.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/ParticleView.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsListener.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsListener.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsModel.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsModel.as" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -14,8 +14,6 @@ the Starling Particle Extension: https://github.com/PrimaryFeather/Starling-Exte
 
 - Initial Relase of Starling-Particle-Editor with Captive Runtime (Windows x86 EXE file);
 
-- Removed deprecated or obsolete property "maxParticles";
-
 - Added project related files (IntelliJ);
 
 - Make sure to use latest MASTER Branch of Starling Framework to compile;

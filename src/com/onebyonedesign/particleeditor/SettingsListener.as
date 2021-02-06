@@ -28,7 +28,7 @@ package com.onebyonedesign.particleeditor
     {
         function updateXPosVariance(value:Number):void;
         function updateYPosVariance(value:Number):void;
-        // function updateMaxParticles(value:Number):void; // This function seems to be deprecated or obsolete
+         function updateMaxParticles(value:Number):void;
         function updateLifeSpan(value:Number):void;
         function updateLifeSpanVariance(value:Number):void;
         function updateStartSize(value:Number):void;

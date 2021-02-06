@@ -133,12 +133,11 @@ package com.onebyonedesign.particleeditor
 		}
 
 
-		// This function seems to be deprecated or obsolete
-		//		public function updateMaxParticles(value : Number) : void
-		//		{
-		//			mParticleSystem.mMaxNumParticles = value;
-		//			mParticleSystem.emissionRate     = mParticleSystem.mMaxNumParticles / mParticleSystem.mLifespan;
-		//		}
+		public function updateMaxParticles(value : Number) : void
+		{
+			mParticleSystem.capacity     = value;
+			mParticleSystem.emissionRate = mParticleSystem.capacity / mParticleSystem.lifespan;
+		}
 
 
 		public function updateLifeSpan(value : Number) : void

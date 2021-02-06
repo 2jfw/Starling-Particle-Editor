@@ -155,11 +155,10 @@ package com.onebyonedesign.particleeditor
 		{
 			_maxParts = value;
 
-			// This function seems to be deprecated or obsolete
-			//            for each(var listener:SettingsListener in mListeners)
-			//            {
-			//                listener.updateMaxParticles(value);
-			//            }
+			for each(var listener : SettingsListener in mListeners)
+			{
+				listener.updateMaxParticles(value);
+			}
 		}
 
 
