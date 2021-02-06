@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72a2cf2b-4c89-4140-ba76-133779b79081" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main-app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starling-Particle-Editor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Starling-Particle-Editor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main-app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bit101/components/Slider.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bit101/components/Slider.as" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/ParticleView.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/ParticleView.as" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsListener.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsListener.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/starling/extensions/OpenPDParticleSystem.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsModel.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/onebyonedesign/particleeditor/SettingsModel.as" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +30,20 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1msLPtG9Ipmq2C1G9Zv1URL6lDq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Starling-Extension-Particle-System/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main-app.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -84,7 +91,9 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="- initial commit;" />
-    <option name="LAST_COMMIT_MESSAGE" value="- initial commit;" />
+    <MESSAGE value="- initial commit for using latest starling and starling particle system classes;&#10;- preparing captive runtime release;" />
+    <option name="LAST_COMMIT_MESSAGE" value="- initial commit for using latest starling and starling particle system classes;&#10;- preparing captive runtime release;" />
   </component>
 </project>

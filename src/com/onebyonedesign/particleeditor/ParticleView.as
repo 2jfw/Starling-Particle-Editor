@@ -133,7 +133,7 @@ package com.onebyonedesign.particleeditor
 		}
 
 
-		// This function seems to be obsolete
+		// This function seems to be deprecated or obsolete
 		//		public function updateMaxParticles(value : Number) : void
 		//		{
 		//			mParticleSystem.mMaxNumParticles = value;

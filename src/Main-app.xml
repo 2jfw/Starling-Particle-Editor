@@ -99,7 +99,7 @@
         <!--<fullScreen></fullScreen>-->
 
         <!-- The render mode for the app (either auto, cpu, gpu, or direct). Optional. Default auto -->
-        <!--<renderMode></renderMode>-->
+        <renderMode>direct</renderMode>
 
         <!-- Whether the default direct mode rendering context allocates storage for depth and stencil buffers.  Optional.  Default false. -->
         <!--<depthAndStencil></depthAndStencil>-->
@@ -108,7 +108,7 @@
         <!--<softKeyboardBehavior></softKeyboardBehavior>-->
 
         <!-- Display Resolution for the app (either "standard" or "high"). Optional, OSX-only. Default "standard" -->
-        <!-- <requestedDisplayResolution></requestedDisplayResolution> -->
+        <requestedDisplayResolution>high</requestedDisplayResolution>
     </initialWindow>
 
     <!-- We recommend omitting the supportedProfiles element, which in turn permits your application to be deployed to all devices supported by AIR.

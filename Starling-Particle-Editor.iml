@@ -5,17 +5,17 @@
       <configuration name="Starling-Particle-Editor" target-platform="Desktop" pure-as="true" main-class="Main" output-file="Starling-Particle-Editor.swf" output-folder="$MODULE_DIR$/out">
         <dependencies>
           <entries>
-            <entry library-id="f9d75e75-dc0b-4847-92bf-4969503c66e6">
+            <entry library-id="f467200a-5e1b-44b0-bc2d-16813da5d485">
               <dependency linkage="Merged" />
             </entry>
-            <entry library-id="f467200a-5e1b-44b0-bc2d-16813da5d485">
+            <entry library-id="653f829e-fe04-438d-a4e1-17e822690b33">
               <dependency linkage="Merged" />
             </entry>
           </entries>
           <sdk name="33.1.1.345" />
         </dependencies>
         <compiler-options />
-        <packaging-air-desktop package-file-name="Starling-Particle-Editor" />
+        <packaging-air-desktop use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/Main-app.xml" package-file-name="Starling-Particle-Editor" />
         <packaging-android />
         <packaging-ios />
       </configuration>
@@ -31,9 +31,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
       <library type="flex">
-        <properties id="f9d75e75-dc0b-4847-92bf-4969503c66e6" />
+        <properties id="f467200a-5e1b-44b0-bc2d-16813da5d485" />
         <CLASSES>
-          <root url="jar://$STARLING_FRAMEWORK$/starling/bin/starling.swc!/" />
+          <root url="file://$MODULE_DIR$/../Starling-Extension-Particle-System/src" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -41,9 +41,9 @@
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library type="flex">
-        <properties id="f467200a-5e1b-44b0-bc2d-16813da5d485" />
+        <properties id="653f829e-fe04-438d-a4e1-17e822690b33" />
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../Starling-Extension-Particle-System/src" />
+          <root url="file://$MODULE_DIR$/../Starling-Framework/starling/src" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
