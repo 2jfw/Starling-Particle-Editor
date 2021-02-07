@@ -26,10 +26,10 @@ the Starling Particle Extension: https://github.com/PrimaryFeather/Starling-Exte
 - Added mouse wheel functionality to "Slider" component for finetuning values.
 Hold down the following keys to adjust the step size while using the mouse wheel:
 
-* CRTL Key: +/- .1
-* SHIFT Key: +/- 10
+    * CRTL Key: +/- .1
+    * SHIFT Key: +/- 10
 
-* Default: +/- 1
+    * Default: +/- 1
 
 
 
