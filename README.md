@@ -12,18 +12,45 @@ the Starling Framework: https://github.com/PrimaryFeather/Starling-Framework
 the Starling Particle Extension: https://github.com/PrimaryFeather/Starling-Extension-Particle-System
 
 
+
+## 2021 Version (Starling 2.6)
+
 - Initial Relase of Starling-Particle-Editor with Captive Runtime (Windows x86 EXE file);
 
 - Added project related files (IntelliJ);
 
-- Make sure to use latest MASTER Branch of Starling Framework to compile;
 
-- You need Starling Extension "Starling-Extension-Particle-System";
 
-- Added mousewheel handler to "Slider" component for finetuning values. Use the following keys to adjust step size:
-Default: +/- 1
-CRTL Key: +/- .1
-SHIFT Key: +/- 10
+### New Features
+
+- Added mouse wheel functionality to "Slider" component for finetuning values.
+Hold down the following keys to adjust the step size while using the mouse wheel:
+
+* CRTL Key: +/- .1
+* SHIFT Key: +/- 10
+
+* Default: +/- 1
+
+
 
 ![Preview](Screenshot.png?raw=true "Preview")
 
+
+
+### Compile
+
+- Make sure to use **latest** MASTER Branch of the Starling Framework to compile;
+
+- You also need the Starling Extension "Starling-Extension-Particle-System";
+
+
+
+### Suggestions
+
+- Please feel free to make suggestions for additional features
+
+
+
+### Credits
+
+- Thanks to **devon-o**, author of the initial version of this awesome and wunderful tool
