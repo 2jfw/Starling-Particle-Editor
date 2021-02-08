@@ -53,4 +53,4 @@ Hold down the following keys to adjust the step size while using the mouse wheel
 
 ### Credits
 
-- Thanks to **devon-o**, author of the initial version of this awesome and wunderful tool
+- Thanks to **devon-o**, author of the initial version of this awesome and wonderful tool
